@@ -1,0 +1,386 @@
+fileFormatVersion: 2
+guid: f84599e902b9f854187a0261cea8a25a
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 01 - Default.mat
+    second: {fileID: 2100000, guid: d1020ffaf205c144a9608128bd33c7a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 02 - Default.mat
+    second: {fileID: 2100000, guid: c90d15205712a51478ede9eb99901f39, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BL_poster1.mat
+    second: {fileID: 2100000, guid: 2ca1184c7cb90844281c5716da39dcd0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #704.mat
+    second: {fileID: 2100000, guid: d253ac1cc2a32424b84d9601e31a0801, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OUTSIDE.mat
+    second: {fileID: 2100000, guid: d5b98f14c6fc97046baab14e0f22aa16, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: band_shadow.mat
+    second: {fileID: 2100000, guid: 3fd8f124c505e6945b7253e0aaf39bba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bass_amp.mat
+    second: {fileID: 2100000, guid: 701f86486dc60764789f5ac351f9468e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bike tire.mat
+    second: {fileID: 2100000, guid: 7a6c5070fd4ba354aa4ccf7328367473, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bl_poster2.mat
+    second: {fileID: 2100000, guid: a45962e98d5512043872a7f2ee5bfd88, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bl_poster3.mat
+    second: {fileID: 2100000, guid: c3f0a0dc73f041345983cb6c89459751, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bl_poster4.mat
+    second: {fileID: 2100000, guid: de24b2e04ae8f964abc0dbb36962a2b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: black.mat
+    second: {fileID: 2100000, guid: 1ca55738cf52b164da137a1b5b9286e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiler.mat
+    second: {fileID: 2100000, guid: 1e6aa2e00420f0b4e9a9191e2b66fed5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: brightboiler.mat
+    second: {fileID: 2100000, guid: 2976638ab2a12d548ba66f53813a52ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cop_mat.mat
+    second: {fileID: 2100000, guid: 55b0299e68c7ce54c92d40057a6dacd5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: crowd.mat
+    second: {fileID: 2100000, guid: 06d821df2cd84404b8e86121650deeec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: crowd_limits00.mat
+    second: {fileID: 2100000, guid: c1e7b8eeb5f921a4c8699af4f99601b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: crowd_limits01.mat
+    second: {fileID: 2100000, guid: a3b41113808fa434c8a576536ebeaef6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: crowd_limits02.mat
+    second: {fileID: 2100000, guid: 02a3cb3145e983c46b6c22db62f997e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: crowd_limits03.mat
+    second: {fileID: 2100000, guid: bcbbc2feace2cfc4db5f77c6e27cd847, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: crowd_limits04.mat
+    second: {fileID: 2100000, guid: 0102dc2dc723d81498fee15be488dce7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: crowd_limits05.mat
+    second: {fileID: 2100000, guid: 056584c8d2c8a6642bd7d934a6fcf5d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: crowd_limits06.mat
+    second: {fileID: 2100000, guid: da689762e6ce02a42910d194fd339462, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: crowd_limits07.mat
+    second: {fileID: 2100000, guid: 632044ca5db65de47b2d6485c2cb3336, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: crowd_limits08.mat
+    second: {fileID: 2100000, guid: fca09b0da0db4f441889c078ccb5cd77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: crowd_limits09.mat
+    second: {fileID: 2100000, guid: 3b6c5359f9d20734283ea9c0b37fc844, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: crowd_limits10.mat
+    second: {fileID: 2100000, guid: b2e11da512264974da48d2970c768f26, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: crowd_limits11.mat
+    second: {fileID: 2100000, guid: 2636e6e11cfe4dc49ad9902b6dc814ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: drum_head.mat
+    second: {fileID: 2100000, guid: 469b4dee68c13a545be1c4ec77c0ca42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: drumshells.mat
+    second: {fileID: 2100000, guid: 1163b861d52ddf446aeb30e97575753f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: extension_cable.mat
+    second: {fileID: 2100000, guid: 3230a45cf31bc654eac9647f4bf0b5d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: furnace_glow.mat
+    second: {fileID: 2100000, guid: 02a996ba3b1ff144eaf037ce1cff8dc8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass.mat
+    second: {fileID: 2100000, guid: 6a4904fe04ace924595910ffd963ef09, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: green.mat
+    second: {fileID: 2100000, guid: f8d5d57b8d978e74986bb11e0fa4fa2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hardware.mat
+    second: {fileID: 2100000, guid: cf32c453d681f4a4c89fce0b95f6915d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: milk blue.mat
+    second: {fileID: 2100000, guid: 2bd57ce653fe65449b3721ab01d82e17, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: milk red.mat
+    second: {fileID: 2100000, guid: 26c0c3549602db54db846cb196cf62d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mud.pun
+    second: {fileID: 2100000, guid: 83931ced3fedb6e48adf7ee9d1950947, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: particle_board .mat
+    second: {fileID: 2100000, guid: 165ec33482c9bfd4984f94d4dfcda9b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pipes_red.mat
+    second: {fileID: 2100000, guid: 8f593f61bb7a74346bf51fe268330178, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plaster.mat
+    second: {fileID: 2100000, guid: 4e52ab01b00f9434eb6db7bf7242f7dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ply_wood.mat
+    second: {fileID: 2100000, guid: 4074027a0c300ed458dc46564f5e73a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: poster_wall.mat
+    second: {fileID: 2100000, guid: 69e75f62c8b13ca4595c5f2e1229ee01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: red.mat
+    second: {fileID: 2100000, guid: 6240a0e7b6485e340978684bbe344740, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ribbed.mat
+    second: {fileID: 2100000, guid: 74acfbd6169c4ee49a449e827166a11b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ride5.mat
+    second: {fileID: 2100000, guid: 6123c377edc9bc74b885f49ad102ec6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rug.mat
+    second: {fileID: 2100000, guid: 90dbccbc812ad0d44b294932c4e2ca96, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rug2.mat
+    second: {fileID: 2100000, guid: be4d0fb3a47f2394c869d628e760ff81, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: snake_poster.mat
+    second: {fileID: 2100000, guid: 71e394da717193147bce13fd4bd63665, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stage_top.mat
+    second: {fileID: 2100000, guid: f4ad60c3567f2c14db579c29ece14c5e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stove_pipe.mat
+    second: {fileID: 2100000, guid: 58e0125c254ea9e47977832df7a879ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tido.mat
+    second: {fileID: 2100000, guid: 9e863e74cb25c52459a7446bf18a2023, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: traffic.mat
+    second: {fileID: 2100000, guid: 919a222fe63907b42bdb50da80a5889b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vox.mat
+    second: {fileID: 2100000, guid: 3f2c4e66ef3db9c4ca409ae724701df8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: washer.mat
+    second: {fileID: 2100000, guid: c73b361e78a1fd64cb69340d21cdaa51, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: yellow.mat
+    second: {fileID: 2100000, guid: ae25b500a0049484c942f73c7557f07e, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
