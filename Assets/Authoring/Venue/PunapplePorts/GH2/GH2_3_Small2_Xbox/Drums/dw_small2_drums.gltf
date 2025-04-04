@@ -1,0 +1,911 @@
+{
+  "accessors": [
+    {
+      "bufferView": 0,
+      "byteOffset": 0,
+      "count": 66,
+      "componentType": 5126,
+      "type": "VEC3",
+      "min": [
+        -11.814403533935547,
+        -9.455307006835938,
+        -6.7586212158203125
+      ],
+      "max": [
+        11.949405670166016,
+        9.483903884887695,
+        6.525722503662109
+      ],
+      "name": "crash.mesh_pos"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 792,
+      "count": 66,
+      "componentType": 5126,
+      "type": "VEC3",
+      "min": [
+        -0.99661785364151,
+        -0.707054615020752,
+        -0.707054615020752
+      ],
+      "max": [
+        0.9999396800994873,
+        0.7068143486976624,
+        0.7068143486976624
+      ],
+      "name": "crash.mesh_norm"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 0,
+      "count": 66,
+      "componentType": 5126,
+      "type": "VEC2",
+      "min": [
+        0.6311158537864685,
+        0.36922621726989746
+      ],
+      "max": [
+        1.0003999471664429,
+        0.7397028803825378
+      ],
+      "name": "crash.mesh_uv"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 0,
+      "count": 312,
+      "componentType": 5123,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        65
+      ],
+      "name": "crash.mesh_face"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1584,
+      "count": 65,
+      "componentType": 5126,
+      "type": "VEC3",
+      "min": [
+        -87.92916870117188,
+        -17.788429260253906,
+        40.58313751220703
+      ],
+      "max": [
+        -65.744384765625,
+        3.684478759765625,
+        45.75480651855469
+      ],
+      "name": "hat.mesh_pos"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 2364,
+      "count": 65,
+      "componentType": 5126,
+      "type": "VEC3",
+      "min": [
+        -0.9999697208404541,
+        -0.2217039167881012,
+        -0.2217039167881012
+      ],
+      "max": [
+        -0.9495760798454285,
+        0.04780001938343048,
+        0.04780001938343048
+      ],
+      "name": "hat.mesh_norm"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 528,
+      "count": 65,
+      "componentType": 5126,
+      "type": "VEC2",
+      "min": [
+        0.6311158537864685,
+        0.36922621726989746
+      ],
+      "max": [
+        1.0003999471664429,
+        0.7397028803825378
+      ],
+      "name": "hat.mesh_uv"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 624,
+      "count": 306,
+      "componentType": 5123,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        64
+      ],
+      "name": "hat.mesh_face"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 3144,
+      "count": 568,
+      "componentType": 5126,
+      "type": "VEC3",
+      "min": [
+        -48.472660064697266,
+        -2.4988484382629395,
+        0.7307719588279724
+      ],
+      "max": [
+        -1.4377689361572266,
+        40.27956771850586,
+        47.90863800048828
+      ],
+      "name": "kick.mesh_pos"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 9960,
+      "count": 568,
+      "componentType": 5126,
+      "type": "VEC3",
+      "min": [
+        -0.9999454021453857,
+        -0.17178954184055328,
+        -0.17178954184055328
+      ],
+      "max": [
+        -0.03332154452800751,
+        0.7067140936851501,
+        0.7067140936851501
+      ],
+      "name": "kick.mesh_norm"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1048,
+      "count": 568,
+      "componentType": 5126,
+      "type": "VEC2",
+      "min": [
+        0.0024565085768699646,
+        -0.0020979642868041992
+      ],
+      "max": [
+        0.993895947933197,
+        0.9942209720611572
+      ],
+      "name": "kick.mesh_uv"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1236,
+      "count": 1947,
+      "componentType": 5123,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        567
+      ],
+      "name": "kick.mesh_face"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 16776,
+      "count": 2296,
+      "componentType": 5126,
+      "type": "VEC3",
+      "min": [
+        -69.34175872802734,
+        -25.792701721191406,
+        0.03331151604652405
+      ],
+      "max": [
+        35.853790283203125,
+        28.334304809570312,
+        54.559326171875
+      ],
+      "name": "kit.mesh_pos"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 44328,
+      "count": 2296,
+      "componentType": 5126,
+      "type": "VEC3",
+      "min": [
+        -0.9999992847442627,
+        -0.7071059942245483,
+        -0.7071059942245483
+      ],
+      "max": [
+        0.9999528527259827,
+        0.7071062922477722,
+        0.7071062922477722
+      ],
+      "name": "kit.mesh_norm"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 5592,
+      "count": 2296,
+      "componentType": 5126,
+      "type": "VEC2",
+      "min": [
+        0.0024565085768699646,
+        -0.0020979642868041992
+      ],
+      "max": [
+        1.0003999471664429,
+        0.9944109320640564
+      ],
+      "name": "kit.mesh_uv"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 5130,
+      "count": 8133,
+      "componentType": 5123,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2295
+      ],
+      "name": "kit.mesh_face"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 71880,
+      "count": 454,
+      "componentType": 5126,
+      "type": "VEC3",
+      "min": [
+        -69.24497985839844,
+        -11.221542358398438,
+        25.3807315826416
+      ],
+      "max": [
+        -45.22776794433594,
+        12.872846603393555,
+        37.2391242980957
+      ],
+      "name": "snare.mesh_pos"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 77328,
+      "count": 454,
+      "componentType": 5126,
+      "type": "VEC3",
+      "min": [
+        -1.0,
+        -0.1930866688489914,
+        -0.1930866688489914
+      ],
+      "max": [
+        -0.9490200281143188,
+        0.222891166806221,
+        0.222891166806221
+      ],
+      "name": "snare.mesh_norm"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 23960,
+      "count": 454,
+      "componentType": 5126,
+      "type": "VEC2",
+      "min": [
+        0.0024565085768699646,
+        -0.0020979642868041992
+      ],
+      "max": [
+        0.993895947933197,
+        0.9942209720611572
+      ],
+      "name": "snare.mesh_uv"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 21396,
+      "count": 1941,
+      "componentType": 5123,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        453
+      ],
+      "name": "snare.mesh_face"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 0,
+      "count": 15,
+      "componentType": 5126,
+      "type": "SCALAR",
+      "min": [
+        0.0
+      ],
+      "max": [
+        100.0
+      ],
+      "name": "crash.tnm_rotation_input"
+    },
+    {
+      "bufferView": 4,
+      "byteOffset": 0,
+      "count": 15,
+      "componentType": 5126,
+      "type": "VEC4",
+      "min": [
+        -0.21843770146369934,
+        -0.0,
+        -0.0,
+        -1.0
+      ],
+      "max": [
+        0.06114695221185684,
+        -0.0,
+        -0.0,
+        -0.9758508801460266
+      ],
+      "name": "crash.tnm_rotation_output"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 60,
+      "count": 1,
+      "componentType": 5126,
+      "type": "SCALAR",
+      "min": [
+        0.0
+      ],
+      "max": [
+        0.0
+      ],
+      "name": "crash.tnm_scale_input"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 82776,
+      "count": 1,
+      "componentType": 5126,
+      "type": "VEC3",
+      "min": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "name": "crash.tnm_scale_output"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 64,
+      "count": 12,
+      "componentType": 5126,
+      "type": "SCALAR",
+      "min": [
+        0.0
+      ],
+      "max": [
+        100.0
+      ],
+      "name": "hat.tnm_translation_input"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 82788,
+      "count": 12,
+      "componentType": 5126,
+      "type": "VEC3",
+      "min": [
+        30.93973731994629,
+        38.36954879760742,
+        -0.37837839126586914
+      ],
+      "max": [
+        30.93973731994629,
+        38.36954879760742,
+        0.6540837287902832
+      ],
+      "name": "hat.tnm_translation_output"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 112,
+      "count": 4,
+      "componentType": 5126,
+      "type": "SCALAR",
+      "min": [
+        0.0
+      ],
+      "max": [
+        100.0
+      ],
+      "name": "kick.tnm_translation_input"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 82932,
+      "count": 4,
+      "componentType": 5126,
+      "type": "VEC3",
+      "min": [
+        30.93973731994629,
+        38.34149169921875,
+        0.0
+      ],
+      "max": [
+        31.330162048339844,
+        38.36954879760742,
+        0.0
+      ],
+      "name": "kick.tnm_translation_output"
+    }
+  ],
+  "animations": [
+    {
+      "channels": [
+        {
+          "sampler": 0,
+          "target": {
+            "node": 5,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 1,
+          "target": {
+            "node": 5,
+            "path": "scale"
+          }
+        }
+      ],
+      "name": "crash.grp",
+      "samplers": [
+        {
+          "input": 20,
+          "interpolation": "LINEAR",
+          "output": 21
+        },
+        {
+          "input": 22,
+          "interpolation": "LINEAR",
+          "output": 23
+        }
+      ]
+    },
+    {
+      "channels": [
+        {
+          "sampler": 0,
+          "target": {
+            "node": 2,
+            "path": "translation"
+          }
+        }
+      ],
+      "name": "hat.grp",
+      "samplers": [
+        {
+          "input": 24,
+          "interpolation": "LINEAR",
+          "output": 25
+        }
+      ]
+    },
+    {
+      "channels": [
+        {
+          "sampler": 0,
+          "target": {
+            "node": 6,
+            "path": "translation"
+          }
+        }
+      ],
+      "name": "kick.grp",
+      "samplers": [
+        {
+          "input": 26,
+          "interpolation": "LINEAR",
+          "output": 27
+        }
+      ]
+    }
+  ],
+  "asset": {
+    "generator": "grim v0.1.0",
+    "version": "2.0"
+  },
+  "buffers": [
+    {
+      "byteLength": 136220,
+      "uri": "dw_small2_drums.bin"
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 82980,
+      "byteOffset": 0,
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 27592,
+      "byteOffset": 82980,
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 25280,
+      "byteOffset": 110572
+    },
+    {
+      "buffer": 0,
+      "byteLength": 128,
+      "byteOffset": 135852,
+      "byteStride": 4
+    },
+    {
+      "buffer": 0,
+      "byteLength": 240,
+      "byteOffset": 135980,
+      "byteStride": 16
+    }
+  ],
+  "scene": 0,
+  "images": [
+    {
+      "mimeType": "image/png",
+      "name": "drums_black.png",
+      "uri": "drums_black.png"
+    },
+    {
+      "mimeType": "image/png",
+      "name": "drums_black_normal.png",
+      "uri": "drums_black_normal.png"
+    },
+    {
+      "mimeType": "image/png",
+      "name": "drums_black_specular.png",
+      "uri": "drums_black_specular.png"
+    },
+    {
+      "mimeType": "image/png",
+      "name": "drums_sparkle_white.png",
+      "uri": "drums_sparkle_white.png"
+    }
+  ],
+  "materials": [
+    {
+      "alphaMode": "MASK",
+      "doubleSided": true,
+      "name": "11 - Default.mat",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "baseColorTexture": {
+          "index": 3,
+          "texCoord": 0
+        },
+        "metallicFactor": 1.0,
+        "roughnessFactor": 1.0
+      },
+      "emissiveFactor": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "alphaMode": "MASK",
+      "doubleSided": true,
+      "name": "13 - Default.mat",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "baseColorTexture": {
+          "index": 0,
+          "texCoord": 0
+        },
+        "metallicFactor": 1.0,
+        "roughnessFactor": 1.0
+      },
+      "emissiveFactor": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "meshes": [
+    {
+      "name": "crash.mesh",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 1
+        }
+      ]
+    },
+    {
+      "name": "hat.mesh",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 4,
+            "NORMAL": 5,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "kick.mesh",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 8,
+            "NORMAL": 9,
+            "TEXCOORD_0": 10
+          },
+          "indices": 11,
+          "material": 1
+        }
+      ]
+    },
+    {
+      "name": "kit.mesh",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 12,
+            "NORMAL": 13,
+            "TEXCOORD_0": 14
+          },
+          "indices": 15,
+          "material": 1
+        }
+      ]
+    },
+    {
+      "name": "snare.mesh",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 16,
+            "NORMAL": 17,
+            "TEXCOORD_0": 18
+          },
+          "indices": 19,
+          "material": 1
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "crash.grp",
+      "rotation": [
+        2.541731e-9,
+        0.70710677,
+        0.70710677,
+        2.6416524e-8
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "dw_cymbals",
+      "rotation": [
+        2.541731e-9,
+        0.70710677,
+        0.70710677,
+        2.6416524e-8
+      ]
+    },
+    {
+      "mesh": 1,
+      "name": "hat.mesh",
+      "scale": [
+        0.78926915,
+        0.78926915,
+        0.78926915
+      ],
+      "translation": [
+        30.939737,
+        38.36955,
+        0.6540837
+      ]
+    },
+    {
+      "children": [
+        4
+      ],
+      "name": "dw_rat_drums",
+      "rotation": [
+        2.541731e-9,
+        0.70710677,
+        0.70710677,
+        2.6416524e-8
+      ]
+    },
+    {
+      "children": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "animation.grp",
+      "rotation": [
+        0.0,
+        0.0,
+        -0.088545114,
+        0.9960722
+      ],
+      "scale": [
+        0.9998494,
+        0.9998494,
+        1.0
+      ],
+      "translation": [
+        4.515609,
+        -16.606472,
+        0.0
+      ]
+    },
+    {
+      "mesh": 0,
+      "name": "crash.mesh",
+      "translation": [
+        -19.005653,
+        44.225037,
+        49.710842
+      ]
+    },
+    {
+      "mesh": 2,
+      "name": "kick.mesh",
+      "scale": [
+        0.78926915,
+        0.78926915,
+        0.78926915
+      ],
+      "translation": [
+        30.939737,
+        38.36955,
+        0.0
+      ]
+    },
+    {
+      "mesh": 3,
+      "name": "kit.mesh",
+      "rotation": [
+        0.0,
+        0.0,
+        -0.007915059,
+        0.9999687
+      ],
+      "scale": [
+        1.0000594,
+        1.0000594,
+        1.0
+      ],
+      "translation": [
+        31.032877,
+        36.80526,
+        0.0
+      ]
+    },
+    {
+      "mesh": 4,
+      "name": "snare.mesh",
+      "scale": [
+        0.78926915,
+        0.78926915,
+        0.78926915
+      ],
+      "translation": [
+        30.939737,
+        38.36955,
+        0.0
+      ]
+    },
+    {
+      "name": "hat.grp",
+      "rotation": [
+        2.541731e-9,
+        0.70710677,
+        0.70710677,
+        2.6416524e-8
+      ]
+    },
+    {
+      "name": "kick.grp",
+      "rotation": [
+        2.541731e-9,
+        0.70710677,
+        0.70710677,
+        2.6416524e-8
+      ]
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9728,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scenes": [
+    {
+      "nodes": [
+        0,
+        1,
+        3,
+        9,
+        10
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "name": "drums_black.tex",
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "name": "drums_black_normal.tex",
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "name": "drums_black_specular.tex",
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "name": "drums_sparkle_white.tex",
+      "sampler": 0,
+      "source": 3
+    }
+  ]
+}

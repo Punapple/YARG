@@ -1,0 +1,4 @@
+Drumset + Microphone
+crypt post explosion smoke particles
+add inbetween frames for crypt falling apart
+camera...
