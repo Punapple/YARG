@@ -3,7 +3,102 @@ guid: 6640c271667ff4e40af50d29b789b3af
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0x00a809d8
+    second: {fileID: 2100000, guid: 160e4b532cebfb4458f35b1a56599f87, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0x04321a63
+    second: {fileID: 2100000, guid: 5787c40f5feafc84f808c659d0a66673, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0x2748d971
+    second: {fileID: 2100000, guid: 59cfd436460603a4dadbde865a526419, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0x3d62a597
+    second: {fileID: 2100000, guid: ee7138fd04406614c9a5fc1fb4886c52, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0x45374dc5
+    second: {fileID: 2100000, guid: 1f5fea7ead9791a4bb2e3a06d94a47a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0x465fd334
+    second: {fileID: 2100000, guid: 56370841b7c0d6249a78b7590c9fce48, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0x5c660163
+    second: {fileID: 2100000, guid: ed7e54778342d1d4a904be27ea4900fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0x654614e3
+    second: {fileID: 2100000, guid: 747f2da2ed351fe4c9c993682cd8437b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0xa92e4328
+    second: {fileID: 2100000, guid: f6e0f4996714d7f4f90aaa41424ee9ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0xaf647e90
+    second: {fileID: 2100000, guid: 1121c6e8683a8bb4680dc3187ad25209, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0xe4cd162d
+    second: {fileID: 2100000, guid: bb0e79a90bb2a4848aa5ee6b9581eb1a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0xe9cbaced
+    second: {fileID: 2100000, guid: d51a0e9a5008ccc43a6428995ab39e71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0xeea668f4
+    second: {fileID: 2100000, guid: d338344b3c96e73418824194b455c5a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: INTERNAL_GO_NoHousing01_CPROJECTOR
+    second: {fileID: 2100000, guid: 515fa3d484011a248b1a868a98bd227c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: INTERNAL_GO_NoHousing01_CPROJECTOR.001
+    second: {fileID: 2100000, guid: 9c5782008ae44f74e880506d2cc660bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: INTERNAL_GO_NoHousing01_CPROJECTOR.002
+    second: {fileID: 2100000, guid: 0a5b414cdd36eaa468d4d0a73c8e64d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: INTERNAL_GO_NoHousing01_CVOLUME
+    second: {fileID: 2100000, guid: ef923492a60f6b24dac84d56e7578211, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: INTERNAL_GO_NoHousing01_CVOLUME.001
+    second: {fileID: 2100000, guid: 3df5fb985071ef64eab3e5a342f35309, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: INTERNAL_GO_NoHousing01_CVOLUME.002
+    second: {fileID: 2100000, guid: 73b35b418e68f824b8a17b0090e8fc5e, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -67,6 +162,7 @@ ModelImporter:
     secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
+    strictVertexDataChecks: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0

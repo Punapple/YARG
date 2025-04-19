@@ -58,7 +58,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0b2db86121404754db890f4c8dfe81b2, type: 3}
   m_Name: Bloom
   m_EditorClassIdentifier: 
-  active: 0
+  active: 1
   threshold:
     m_OverrideState: 1
     m_Value: 0.15
@@ -123,7 +123,7 @@ MonoBehaviour:
   master:
     m_OverrideState: 1
     m_Value:
-      <length>k__BackingField: 4
+      <length>k__BackingField: 2
       m_Loop: 0
       m_ZeroValue: 0
       m_Range: 1
@@ -135,24 +135,6 @@ MonoBehaviour:
           value: 0
           inSlope: 0.27978882
           outSlope: 0.27978882
-          tangentMode: 0
-          weightedMode: 0
-          inWeight: 0
-          outWeight: 0
-        - serializedVersion: 3
-          time: 0.29512194
-          value: 0.12820512
-          inSlope: 0.25371492
-          outSlope: 0.25371492
-          tangentMode: 0
-          weightedMode: 0
-          inWeight: 0
-          outWeight: 0
-        - serializedVersion: 3
-          time: 0.4773585
-          value: 0.19215685
-          inSlope: 0.8584826
-          outSlope: 0.8584826
           tangentMode: 0
           weightedMode: 0
           inWeight: 0

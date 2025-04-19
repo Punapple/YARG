@@ -385,7 +385,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fc20136d54938c94bb65bdaedf11f661, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  <Location>k__BackingField: 4
+  <Location>k__BackingField: 5
 --- !u!1 &649026867
 GameObject:
   m_ObjectHideFlags: 0
@@ -4404,3 +4404,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b51f5941c7b49f47897a7ae27210829, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _gradientLightingSpeed: 0.125
+  _gradientRandomness: 0.5
+  _warmColors: []
+  _coolColors: []
+  _dissonantColors: []
+  _harmoniousColors: []
+  _silhouetteColor: {r: 0, g: 0, b: 0, a: 0}
